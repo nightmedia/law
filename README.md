@@ -34,7 +34,7 @@ git clone https://github.com/yourusername/law.git
 ### iOS App
 
 1. Enter a message in the text field.
-2. Tap the "Send" button to transmit the message securely using sound-based communication with locale-aware fingerprinting.
+2. Tap the "Send" button to transmit the message
 3. It actively listens to the room for messages addressed back to itself
 
 ### WatchOS App
@@ -42,13 +42,21 @@ git clone https://github.com/yourusername/law.git
 Send a message
 
 1. Tap the "Record" button to start recording your voice message
-2. Tap the "Send" button to stop recording and transmit the message securely using sound-based communication with locale-aware fingerprinting.
-3. It actively listens to the room for a response for a given time, allowing AI integration
+2. Tap the "Send" button to stop recording and transmit the message
+3. It actively listens to the room for a response for a given time
 
 Receive a message
 
 1. Tap the "Listen" button to start listening for a message.
 2. The message is displayed or spoken back to you.
+
+## Uses
+
+This *method* allows encryption with an unique, irreplaceable key, never used again or reproducible with common methods.
+
+Its security level depends on the graphity of the room time-spectrum matrix, and the ability of both sides to agree on a codependent gradient matrix mapping. This allows the peers to determine presence, even under Doppler effects.
+
+This allows safe and secure AI integration
 
 ## Contributing
 
