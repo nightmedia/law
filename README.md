@@ -4,7 +4,7 @@ Local Aware Wireless (LAW) is an open-source application that provides secure an
 
 ## Features
 
-* **Secure Sound-Based Communication**: Uses environmental noise to securely transmit data.
+* **Secure Sound-Based Communication**: Uses environmental fingerprinting to securely transmit data.
 * **Locale-Aware Fingerprinting**: Generates unique keys based on the local environment for added security.
 * **Adaptive OFDM Modulation**: Ensures robustness against interference and multipath effects.
 * **Dynamic Key Generation**: Generates new keys based on changing environmental conditions.
