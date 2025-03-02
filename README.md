@@ -58,6 +58,10 @@ Its security level depends on the graphity of the room time-spectrum matrix, and
 
 This allows safe and secure AI integration
 
+Its application goes beyond simple chats. 
+
+Being able to transmit and receive safe, unique, targeted packets could open VL interactions with a locally hosted AI, by using any simple iPhone app. I am making one in Swift. Because Apple
+
 ## Contributing
 
 We welcome contributions from anyone interested in improving the LAW! Please see [CONTRIBUTING.md](https://github.com/nightmedia/law/blob/main/CONTRIBUTING.md) for guidelines on how to contribute to the project.
