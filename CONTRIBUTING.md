@@ -26,11 +26,11 @@ If you find a bug or have a suggestion for improvement, please open an issue on 
 
 ## Security
 
-* Be mindful of security when making changes to the encryption or key generation components of LAW.
+* Be mindful of security when making changes to the encryption or key generation components of the LAW.
 * Any security-related changes should be reviewed carefully before being merged into the main repository.
 
 ## License
 
-This project is licensed under the GPL-3 license. By contributing to this project, you agree to abide by the terms and conditions of the license.
+This project is licensed under the GPL-3 license. By contributing to this project, you agree to abide by the terms and conditions of the license, and the spirit of the LAW.
 
 By following these guidelines, you can help us improve the LAW and make it a better product for everyone.
