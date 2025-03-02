@@ -60,7 +60,7 @@ This allows safe and secure AI integration
 
 ## Contributing
 
-We welcome contributions from anyone interested in improving the LAW! Please see [CONTRIBUTING.md](https://github.com/nightmedia/law/blob/master/CONTRIBUTING.md) for guidelines on how to contribute to the project.
+We welcome contributions from anyone interested in improving the LAW! Please see [CONTRIBUTING.md](https://github.com/nightmedia/law/CONTRIBUTING.md) for guidelines on how to contribute to the project.
 
 License
 This project is licensed under the GPL-3 License.
