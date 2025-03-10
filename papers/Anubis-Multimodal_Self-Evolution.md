@@ -1,6 +1,10 @@
 **Title:** "Multimodal Self-Evolution: A Long-Term View of Human-AI Co-Development"
--- Gheorghe Chesler
--- anubis-pro-105b-v1
+
+**Authors:**
+
+Gheorghe Chesler
+
+anubis-pro-105b-v1
 
 **Abstract:**
 
